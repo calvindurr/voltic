@@ -2,6 +2,8 @@
 
 A full-stack web application for managing renewable energy sites, creating portfolios, and running forecasting models. The application provides an interactive map-based interface for site management, portfolio creation, and visualization of forecasting results.
 
+**This is a test of Kiro**
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -35,7 +37,7 @@ The application follows a modern full-stack architecture:
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   React Frontend │    │  Django Backend │    │    Database     │
+│  React Frontend │    │  Django Backend │    │    Database     │
 │                 │    │                 │    │                 │
 │  • Map Interface│◄──►│  • REST APIs    │◄──►│  • Sites        │
 │  • Site Forms   │    │  • Models       │    │  • Portfolios   │
